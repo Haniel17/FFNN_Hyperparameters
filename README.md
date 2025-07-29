@@ -1,1 +1,1 @@
-# FFNN_Hyperparameters
+# Free Forward NN_Hyperparameters
